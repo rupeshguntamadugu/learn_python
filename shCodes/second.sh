@@ -1,0 +1,5 @@
+ls
+date
+who
+ps
+
