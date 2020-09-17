@@ -1,14 +1,17 @@
-#A program to find the smallest of three numbers
+#
+# A program to find the smallest of three numbers
+#
 echo "enter three numbers"
-read a b c
-s=$a
-if [ $b -lt $s ]
+read num1 num2 num3
+small=$num1
+if [ $num2 -lt $small ]
 then
-s=$b
+    small=$num2
 fi
-if [ $c -lt $s ]
-then 
-s=$c
+if [ $num3 -lt $small ]
+   then 
+   small=$num3
 fi
-  echo smallest of $a $b $c is $s
+
+echo "Smallest of $num1 $num2 $num3 is $small"
 	
