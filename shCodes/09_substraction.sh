@@ -8,7 +8,7 @@ echo "Enter second number: "
 read num2
 
 
-Total=$((num1 - num2))
+total=`expr $num1 - $num2`
 
-echo "Result = $Total"
+echo "Result = $total"
 
