@@ -1,0 +1,88 @@
+1. Write a Python program to calculate simple interest?
+Simple interest formula is given by:
+Simple Interest = (P x T x R)/100
+Where,
+P is the principle amount
+T is the time and
+R is the rate
+2. Write a Python program to calculate compound interest?
+Formula to calculate compound interest annually is given by:
+Compound Interest = P(1 + R/100)r
+Where,
+P is principle amount
+R is the rate and
+T is the time span
+3. Program to find odd/even number?
+4. Program to find if a given number is prime?
+  5. Program to print first 10 odd/even numbers?
+  6. Program to print prime numbers between given range?
+  7. Fibonacci series?
+  8. Sum of an array of numbers?
+  9. Count characters in a string?
+10. Count words in a sentence?
+11. Determine the type of an object in Python
+12. Python program to extract and print digits in reverse order of a number
+13. Find factorial of a given number 1) Normal 2) Recursion
+14. a way to remove the last object from a list?
+15. Common line arguments to python: Print count, list them, print the last argument value.
+16. Environment variables in python: Print all key, values from environment. Check if a variable TEXT_DATA is set in environment, if so print its value.
+17. Python Program to find largest element in an array
+18. Python program to interchange first and last elements in a list
+19. Python program to Count occurrences of an element in a list
+20. Python Program to print duplicates from a list of integers
+21. Find length of a given string
+22. Find count of words in a given text
+23. Generating random strings until a given string is generated
+24. Check for url in a given string
+25. Check for valid IPV4/IPV6 IP address in given string
+26. Implement few sorting algorithms : Binary, Linear, Quick, Bubble, Merge 
+27. Check if a number if divisible by 5 and also 11
+28. Total average and Percentage of ’N’ Subjects
+29. Print multiplication table for given number
+30. Print first 5 Armstrong number from 100
+31. Find if give character is alphabet, Digit or special character?
+32. Check if given alphabet is in lower/upper case?
+33. Python program to print floyds triangle
+34. Python program to print pascals triangle
+35. Write a Python program to read last n lines of a file
+36. Write a python program to find the longest word in given paragraph?
+37. Write a Python program to count the number of lines in a text file. 
+38. Write a Python program to count the number of even and odd numbers from a series of numbers.
+39. Write a Python program to check the validity of password input by users. ( At least 1 letter between [a-z] and 1 letter between [A-Z], At least 1 number between [0-9], At least 1 character from [$#@], Minimum length 6 characters, Maximum length 16 characters)
+40. Write a Python program to check a triangle is equilateral, isosceles or scalene.
+41. Write a Python program to display English astrological sign for given date of birth.
+42. Write a Python program to get next day of a given date.
+43. Write a Python program to iterate over two lists simultaneously. 
+44. Write a Python program to create a Caesar encryption.
+45. Write a Python program to count repeated characters in a string . Sample string: 'thequickbrownfoxjumpsoverthelazydog’. 
+Expected output :
+o 4
+e 3
+u 2
+h 2
+r 2
+t 2
+46. Write a Python program to get a list of locally installed Python modules.
+47. Write a Python program to find the digits which are absent in a given mobile number.
+48. Write a Python program to list all files in a directory in Python. 
+49. Write a Python function to find the maximum and minimum numbers from a sequence of numbers
+50. Python program to rotate an array by 'd' elements.
+51. Find whether a given number is a power of 4 or not
+52. Rotate bits of a number (Left and Right)
+53. Count number of bits to be flipped to convert A to B ( A and B are two numbers given)
+54. Print Binary representation of a given number
+55. Check if two numbers are equal without using arithmetic and comparison operators. (Use bit wise operators)
+56. Using chaining of comparison operators find if a given number is between 90 and 200 ( 90 < n < 200 )
+57. Find the most frequent value in a given list
+58. List1 = [ ‘a’, ‘b’, ‘c’, ‘d’] ; List2 = [ ‘p’, ‘q’, ‘r’, ’s’] Write a python program to print 
+    * ap
+    * bq
+    * cr
+    * ds
+59. Write a python program to find LCM and GCD of two numbers?
+60. Generate a random number using NumPy Library?
+61. Python code to Swap keys with values in a dictionary? DICT comprehension
+62. Using pythons filter() find common elements between 2 lists
+63. Read a date/time in IST and convert to GMT/UTC?
+64. How to translate a string containing a binary code (1 and 0) into a number (integer)? Write a program for this.
+
