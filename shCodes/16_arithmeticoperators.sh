@@ -7,20 +7,17 @@ read num1
 echo "Enter second number:"
 read num2
 
-total='expr $num1 + $num2'
-echo "Result = $total"
+sum=`expr $num1 + $num2`
+echo "Addition       -> $num1 + $num2 = $sum"
 
-total='expr $num1 - $num2'
-echo "Result = $total"
+total=`expr $num1 - $num2`
+echo "Substraction   -> $num1 - $num2 = $total"
 
-total='expr $num1 \* $num2'
-echo "Result = $total"
+total=`expr $num1 \* $num2`
+echo "Multiplication -> $num1 * $num2 = $total"
 
-total='expr $num2 / $num1'
-echo "Result = $total"
-
-total='expr $num2 % $num1'
-echo "Result = $total"
+total=`expr $num2 / $num1`
+echo "Division       -> $num1 / $num2 = $total, Remainder = `expr $num1 % $num2`"
 
 if [ $num1 == $num2 ]
 then
